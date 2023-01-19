@@ -1,5 +1,5 @@
 import java.util.*;
-public class a3_q3 {
+public class q3_a1{
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
     
